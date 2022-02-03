@@ -6,8 +6,11 @@ This repo contains two main things:
 
 (2) Python code which implements an Open Source RF Signal Generator. For more information, see the following URL:
 
-<tbd>
- 
- 
+https://community.element14.com/products/raspberry-pi/raspberrypi_projects/b/blog/posts/picosynthrf---a-python-based-rf-signal-generator
+
+There is a 90-second video demonstrating the project, here:
+
+https://www.youtube.com/watch?v=Bbhudp_Xxss
+
 
  
